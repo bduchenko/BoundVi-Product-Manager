@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1001,
+        "name": "Wallet",
+        "price": 550,
+        "quantity": 10,
+        "category": "Wallets"
+    },
+    {
+        "id": 22564,
+        "name": "Notebook",
+        "price": 1050,
+        "quantity": 15,
+        "category": "Notebooks"
+    },
+    {
+        "id": 31157,
+        "name": "Belt",
+        "price": 950,
+        "quantity": 7,
+        "category": "Belts"
+    },
+    {
+        "id": 45867,
+        "name": "Document Holder",
+        "price": 650,
+        "quantity": 11,
+        "category": "Document Holders"
+    },
+    {
+        "id": 5466,
+        "name": "Long Wallet",
+        "price": 750,
+        "quantity": 10,
+        "category": "Wallets"
+    },
+    {
+        "id": 302647,
+        "name": "Passport Cover",
+        "price": 290.0,
+        "quantity": 25,
+        "category": "Document Holders"
+    },
+    {
+        "id": 683482,
+        "name": "Glass Case",
+        "price": 490.0,
+        "quantity": 25,
+        "category": "Cases for Glass"
+    }
+]
